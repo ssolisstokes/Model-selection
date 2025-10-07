@@ -1,3 +1,8 @@
+# Ignore these
+*/data
+*.Rproj
+*/scripts
+*.Rmd
 # History files
 .Rhistory
 .Rapp.history
